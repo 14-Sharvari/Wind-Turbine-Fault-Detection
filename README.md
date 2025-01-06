@@ -44,3 +44,10 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/14-Sharvari/Wind-Turbine-Fault-Detection.git
    cd Wind-Turbine-Fault-Detection
+
+
+2. **Install Dependencies**
+Ensure you have Python 3.7+ installed. Then run:
+```bash
+pip install -r requirements.txt
+
