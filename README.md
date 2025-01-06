@@ -1,1 +1,1 @@
-# Wind-Turbine-Fault-Detection
+# Wind Turbine Fault Detection
