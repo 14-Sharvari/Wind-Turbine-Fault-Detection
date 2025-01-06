@@ -51,3 +51,11 @@ Ensure you have Python 3.7+ installed. Then run:
 ```bash
 pip install -r requirements.txt
 
+3. **Run the Streamlit App**
+
+To run the app locally, follow these steps:
+
+```bash
+streamlit run dashboard.py
+
+
