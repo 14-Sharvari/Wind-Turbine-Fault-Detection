@@ -51,9 +51,12 @@ Ensure you have Python 3.7+ installed. Then run:
 ```bash
 pip install -r requirements.txt
 
-3. # **Run the Streamlit App**
+
+## **3. Run the Streamlit App**
 To run the Streamlit app, follow these steps:
+
 ```bash
 streamlit run dashboard.py
+
 
 
