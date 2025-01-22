@@ -7,13 +7,13 @@ This project leverages real-time weather data and analytics to monitor and predi
 
 ## **Table of Contents**
 1. [Overview](#overview)
-2. [Features](#projectfeatures)
-3. [Installation](#installation)
+2. [Features](#features)
+3. [Prerequisites](#prerequisites)
 4. [Usage](#usage)
-5. [Technologies Used](#technologies-used)
-6. [Streamlit App](#streamlit-app)
-7. [Data](#data)
-8. [Future Improvements](#future-improvements)
+5. [File Structure](#file-structure)
+6. [Example Visualizations](#example-visualizations)
+7. [Future Enhancements](#future-enhancements)
+8. [Authors](#authors)
 
 ---
 
@@ -22,7 +22,7 @@ This project leverages real-time weather data and analytics to monitor and predi
 ## Overview
 This repository contains a project focused on fault detection in wind turbines and a real-time weather monitoring dashboard. The project leverages advanced data analytics and visualization tools to monitor wind turbine performance, identify potential faults, and provide real-time weather and power output metrics.
 
-## Project Features
+## Features
 
 ### 1. Wind Turbine Fault Detection
 - **Objective**: Analyze wind turbine data to detect potential faults using machine learning models.
