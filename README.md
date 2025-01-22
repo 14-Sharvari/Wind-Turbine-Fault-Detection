@@ -1,6 +1,6 @@
 # **Wind Turbine Fault Detection**
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-orange)](https://your-app-url.streamlit.app)  
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-orange)](https://wind-turbine-fault-detection-etl2vdxz6ru8cqnrxy9z2v.streamlit.app/)  
 This project leverages real-time weather data and analytics to monitor and predict faults in wind turbines. It includes a dashboard for visualizing wind speed, temperature, and turbine health parameters.
 
 ---
