@@ -7,7 +7,7 @@ This project leverages real-time weather data and analytics to monitor and predi
 
 ## **Table of Contents**
 1. [Overview](#overview)
-2. [Features](#Project Features)
+2. [Features](#features)
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Technologies Used](#technologies-used)
